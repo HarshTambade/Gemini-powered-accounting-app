@@ -169,16 +169,6 @@ This project is licensed under the **GPL License**. See the `LICENSE` file for d
 
 ---
 
-## **Screenshots**
-
-### **Dashboard Overview**
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-
-### **AI Insights**
-![AI Insights](https://via.placeholder.com/800x400?text=AI+Insights+Screenshot)
-
----
-
 ## **Contact**
 
 For questions or support, feel free to contact:
