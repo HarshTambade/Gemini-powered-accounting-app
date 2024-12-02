@@ -183,9 +183,7 @@ This project is licensed under the **GPL License**. See the `LICENSE` file for d
 
 For questions or support, feel free to contact:
 - **Email**: 23207001@apsit.edu.in
-- **GitHub**: [your-username](https://github.com/HarshTambade)
+- **GitHub**: [Harsh Tambade](https://github.com/HarshTambade)
 
-```
 
----
 
