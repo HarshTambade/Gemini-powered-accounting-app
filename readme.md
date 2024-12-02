@@ -1,6 +1,4 @@
-Here’s a complete `README.md` file tailored for your Financial Management System:
 
-```markdown
 # Financial Management System
 
 A comprehensive and user-friendly Financial Management System built using **Streamlit**, designed to help users effectively manage and analyze their finances. The system provides an intuitive dashboard, advanced financial insights, and tools to optimize income and expenses.
